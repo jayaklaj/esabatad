@@ -1,0 +1,21 @@
+{
+  "DevInfo": [
+    {
+      "DevNum": "94777839446",
+      "Name": "Avishka Madubashitha",
+      "Role": "Lead Developer",
+      "Team": "Cyber VibeX"
+    },
+    {
+      "DevNum": "94727628327",
+      "Name": "Dila",
+      "Role": "Co-Developer",
+      "Team": "Cyber VibeX"
+    }
+  ],
+  "DeployCount": 62,
+  "Version": "2.2.4",
+  "Web": "bew",
+  "Host": "tsoh",
+  "Footer": "rehtaf tob"
+}
